@@ -1,4 +1,1 @@
-
-###www.derekmueller.info/multivariateLR
-
-
+https://derekmueller.info/views/multivariateLR.html
